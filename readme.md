@@ -241,7 +241,7 @@ This allows marketing teams to identify seasonal patterns and peak campaign peri
 This chart shows how different channels contribute to overall campaign performance.
 
 
-![Marketing data Dashboard](/images/dashboard.png)
+![Marketing data Dashboard](/images/Screenshot%202026-04-17%20230407.png)
 
 ---
 <h2><a class="anchor" id="key-insights"></a>Key Insights</h2>
